@@ -1,0 +1,184 @@
+/* Your styles here */
+* {
+    box-sizing: border-box;
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 1.2rem;
+    line-height: 1.65;
+
+
+}
+
+body {
+    text-align: center;
+    margin: 0;
+}
+
+main {
+    margin: auto;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: #25a2c3;
+    line-height: 1.5;
+}
+
+header {
+    background-color: black;
+    height: 150px;
+}
+
+.img-header {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding: 50px;
+}
+
+.background-img {
+    background-image: url(../img/banner.jpg);
+    background-position: center;
+    background-size: 40em;
+    padding: 2em;
+}
+
+.text-web-dev {
+    text-align: center;
+    margin: auto;
+
+}
+
+.h1-a {
+    font-size: 3.5em;
+    margin: 0;
+}
+
+.h1-text {
+    font-size: 1.5em;
+    margin: 50px 0;
+}
+
+button {
+    background-color: #f04c2f;
+    border-radius: 8px;
+    padding: 1em 2.5em;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    color: #25a2c3;
+    font-family: "Montserrat", sans-serif;
+    margin: 40px 0;
+}
+
+.text-central {
+    font-size: 1.5em;
+    margin: 0 50px;
+}
+
+.img-central1 {
+    border-radius: 50%;
+    padding: 50px;
+}
+
+.central-red {
+    background-color: red;
+    height: 300px;
+    margin: 30px 0;
+    text-align: center;
+    padding: 2em;
+    color: white;
+}
+
+.h1central {
+    margin: 0;
+    font-size: 2em;
+    color: white;
+    padding-top: 20px;
+}
+
+.mariorossi {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    margin: 0;
+    font-weight: 300;
+}
+
+.p-mariorossi {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+.iltuopc,
+.impara-ora,
+.lavorasubito {
+    background-color: rgb(255, 255, 255);
+    border-style: white solid;
+    margin: 40px 40px;
+    box-shadow: 0 3px 3px #b1b1b1;
+}
+
+.h3-thirdpart {
+    font-family: "Montserrat", sans-serif;
+    color: #25a2c3;
+}
+
+.middle-part p {
+    margin: 0;
+    padding: 0 20px 40px 20px;
+}
+
+.img-central2,
+.img-central3 {
+    width: 100%;
+}
+
+footer {
+    background-color: #25a2c3;
+    padding: 30px;
+    color: white;
+}
+
+#contattaci {
+    color: white;
+    margin-top: 0;
+}
+
+.contact li {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    list-style: none;
+    margin: 5px;
+    padding: 0;
+}
+
+.contact-ul {
+    padding: 0;
+}
+
+a {
+    color: white;
+}
+
+li,
+.copyright {
+    font-size: 0.9em;
+}
+
+hr {
+    width: 50%;
+}
+
+i {
+    margin-right: 3px;
+}
