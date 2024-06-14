@@ -53,9 +53,10 @@ header {
     padding: 40px 40px;
     padding-top: 250px;
 }
-.sesecond-part{
-    text-align: right;
+.second-part {
+    text-align: left;
     height: 100vh;
+    padding: 80px 80px;
 }
 
 .h1-a {
